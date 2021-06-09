@@ -11,10 +11,6 @@ const initialUsers = {
     username: 'sanat',
     password: 'sanat',
   },
-  harsimran: {
-    username: 'harsimran',
-    password: 'harsimran',
-  },
   user1: {
     username: 'user1',
     password: 'user1',
